@@ -1,0 +1,11 @@
+# Project exclude paths
+/vendor/bundle
+/.bundle
+lambda_tester.rb
+/.idea
+/terraform/*.zip
+/terraform/.terraform
+/terraform/.terraform.lock.hcl
+/terraform/terraform.tfstate*
+/lambda_package
+function.zip
